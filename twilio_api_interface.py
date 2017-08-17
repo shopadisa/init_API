@@ -79,7 +79,7 @@ def main(id):
 	smoalerr_dick = get_line_items_dictionary(json_string)
 	#update_database(dictionary)
 	#artisan_phone_number = get_artisan_phone_number(dictionary)
-	send_artisan_confirmation(smoalerr_dick, dick,'+12064994335')
+	send_artisan_confirmation(smoalerr_dick, dick,'+16123561005')
 	return("The deed is done.")
 
 
